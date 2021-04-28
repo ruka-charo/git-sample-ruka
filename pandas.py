@@ -1,4 +1,4 @@
-'''Pandasテスト'''
+'''numpyテスト'''
 import pandas as pd
 
 
