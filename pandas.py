@@ -1,8 +1,12 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 =======
 '''numpyテスト'''
 >>>>>>> feature/login
+=======
+# 変更
+>>>>>>> origin/develop
 import pandas as pd
 
 
