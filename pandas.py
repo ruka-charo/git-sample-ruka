@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 
+=======
+'''numpyテスト'''
+>>>>>>> feature/login
 import pandas as pd
 
 
