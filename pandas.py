@@ -1,4 +1,4 @@
-'''Pandasテスト'''
+
 import pandas as pd
 
 
