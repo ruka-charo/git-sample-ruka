@@ -149,3 +149,5 @@ df_6
 
 # 男女別のSatisfiedの0と1の数と割合をクロス集計で(行)正規化して表示
 pd.crosstab(df_6['Sex'], df_6['Satisfied'], normalize='index')
+
+# Git_practice
